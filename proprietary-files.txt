@@ -1419,7 +1419,8 @@ system_ext/lib64/vendor.mediatek.hardware.mtkradioex@3.0.so
 system_ext/lib64/vendor.mediatek.hardware.nwk_opt@1.0.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony@1.0.so
 -system_ext/priv-app/DuraSpeed/DuraSpeed.apk
--system_ext/priv-app/FMRadio/FMRadio.apk
+# FMRadio disabled for Lineage OS
+# -system_ext/priv-app/FMRadio/FMRadio.apk
 system_ext/priv-app/FMRadio/lib/arm64/libfmjni.so
 -system_ext/priv-app/MiuiSystemUI/MiuiSystemUI.apk
 -system_ext/priv-app/MtkCarrierConfig/MtkCarrierConfig.apk
