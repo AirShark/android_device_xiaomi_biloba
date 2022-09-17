@@ -1439,8 +1439,8 @@ system_ext/priv-app/Settings/lib/arm64/libjpgt.so
 system_ext/priv-app/Settings/lib/arm64/liblept.so
 system_ext/priv-app/Settings/lib/arm64/libpngt.so
 system_ext/priv-app/Settings/lib/arm64/libtess.so
--system_ext/priv-app/Settings/Settings.apk
--system_ext/priv-app/StorageManager/StorageManager.apk
+# -system_ext/priv-app/Settings/Settings.apk
+# -system_ext/priv-app/StorageManager/StorageManager.apk
 -system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk
 -vendor/app/ImageCollection/ImageCollection.apk
 -vendor/app/InProcessTetheringResOverlay/InProcessTetheringResOverlay.apk
